@@ -1,0 +1,8 @@
+a = int(input("First Number : "))
+b = int(input( "Second Number: "))
+c = int(input("Third Number: "))
+
+print("Add =", a + b + c)
+print("Subtract =", a - b - c)
+print("Divide =", a / b / c)
+print("Mulitply =", a * b * c)
